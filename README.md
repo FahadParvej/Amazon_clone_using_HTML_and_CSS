@@ -1,0 +1,1 @@
+# This is a basic non functional clone of the front page of amazon.com using HTML and CSS
